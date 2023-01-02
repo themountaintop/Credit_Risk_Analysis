@@ -37,3 +37,37 @@ The purpose of this project is to evaluate several machine learning models in or
 <img width="667" alt="Screenshot 2023-01-02 at 3 33 53 PM" src="https://user-images.githubusercontent.com/58227052/210276056-9e84cf59-6f67-4eb9-959f-1c57ee03b6b2.png">
 
 
+
+### SMOTEENN model:
+
+<img width="333" alt="Screenshot 2023-01-02 at 3 36 08 PM" src="https://user-images.githubusercontent.com/58227052/210276217-1c632a6f-e354-42f9-a84a-9d5610e34745.png">
+
+<img width="375" alt="Screenshot 2023-01-02 at 3 36 14 PM" src="https://user-images.githubusercontent.com/58227052/210276222-ab7b25b7-e62c-4662-a34f-5aecfc64d5f1.png">
+
+<img width="667" alt="Screenshot 2023-01-02 at 3 36 21 PM" src="https://user-images.githubusercontent.com/58227052/210276225-2c6b283d-6858-4b25-a071-8e6c2b444488.png">
+
+
+
+### BalancedRandomForestClassifier model:
+
+<img width="422" alt="Screenshot 2023-01-02 at 3 38 18 PM" src="https://user-images.githubusercontent.com/58227052/210276365-24c67cb8-91cc-4984-9164-b625fc5b1c90.png">
+
+<img width="373" alt="Screenshot 2023-01-02 at 3 38 26 PM" src="https://user-images.githubusercontent.com/58227052/210276373-9e3c78c5-31d7-4a70-bf3e-be3ba4a22bb4.png">
+
+<img width="668" alt="Screenshot 2023-01-02 at 3 38 33 PM" src="https://user-images.githubusercontent.com/58227052/210276385-0323fc5b-08ac-4641-a05e-da6e603d54d5.png">
+
+
+
+### EasyEnsembleClassifier model:
+
+<img width="337" alt="Screenshot 2023-01-02 at 3 39 30 PM" src="https://user-images.githubusercontent.com/58227052/210276472-b9f17a43-be62-4f4f-b4aa-036fb11f049d.png">
+
+<img width="378" alt="Screenshot 2023-01-02 at 3 39 37 PM" src="https://user-images.githubusercontent.com/58227052/210276477-be8a5fe8-5a7a-4705-9b8a-3d8f6dd053cf.png">
+
+<img width="673" alt="Screenshot 2023-01-02 at 3 39 44 PM" src="https://user-images.githubusercontent.com/58227052/210276482-d5f23d05-a0b5-41a7-b652-a15940cb0cfb.png">
+
+
+
+
+
+
