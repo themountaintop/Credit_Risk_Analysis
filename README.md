@@ -14,7 +14,7 @@ The purpose of this project is to evaluate several machine learning models in or
 
 <img width="670" alt="Screenshot 2023-01-02 at 3 29 39 PM" src="https://user-images.githubusercontent.com/58227052/210275727-d47fded1-7747-413b-bda5-340ae752f3dc.png">
 
-The balanced accuracy score is 62% with the high-risk precision at only 1% and the low-risk at 100%. High risk and low risk sensitivities are 59% and 69% respectively.
+The balanced accuracy score is 64% with the high-risk precision at only 1% and the low-risk at 100%. High-risk and low-risk sensitivities are 59% and 69% respectively.
 
 
 ### SMOTE Oversampling model:
@@ -25,7 +25,7 @@ The balanced accuracy score is 62% with the high-risk precision at only 1% and t
 
 <img width="666" alt="Screenshot 2023-01-02 at 3 31 28 PM" src="https://user-images.githubusercontent.com/58227052/210275833-0e404ab9-42a5-44b5-8bac-cece0bf613a2.png">
 
-The balanced accuracy score is 64% with the high-risk precision at only 1% and the low-risk precision at 100%. High risk and low risk sensitivities are 59% and 66% respectively.
+The balanced accuracy score is 62% with the high-risk precision at only 1% and the low-risk precision at 100%. High-risk and low-risk sensitivities are 59% and 66% respectively.
 
 
 ### ClusterCentroids resampler model:
