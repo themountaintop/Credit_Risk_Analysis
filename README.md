@@ -14,7 +14,7 @@ The purpose of this project is to evaluate several machine learning models in or
 
 <img width="670" alt="Screenshot 2023-01-02 at 3 29 39 PM" src="https://user-images.githubusercontent.com/58227052/210275727-d47fded1-7747-413b-bda5-340ae752f3dc.png">
 
-The balanced accuracy score is 62% with the high risk at only 1% and the low risk at 100%. High risk and low risk sensitivities are 59% and 69% respectively.
+The balanced accuracy score is 62% with the high-risk precision at only 1% and the low-risk at 100%. High risk and low risk sensitivities are 59% and 69% respectively.
 
 
 ### SMOTE Oversampling model:
@@ -25,7 +25,7 @@ The balanced accuracy score is 62% with the high risk at only 1% and the low ris
 
 <img width="666" alt="Screenshot 2023-01-02 at 3 31 28 PM" src="https://user-images.githubusercontent.com/58227052/210275833-0e404ab9-42a5-44b5-8bac-cece0bf613a2.png">
 
-The balanced accuracy score is 64% with the high risk at only 1% and the low risk at 100%. High risk and low risk sensitivities are 59% and 66% respectively.
+The balanced accuracy score is 64% with the high-risk precision at only 1% and the low-risk precision at 100%. High risk and low risk sensitivities are 59% and 66% respectively.
 
 
 ### ClusterCentroids resampler model:
@@ -36,7 +36,7 @@ The balanced accuracy score is 64% with the high risk at only 1% and the low ris
 
 <img width="667" alt="Screenshot 2023-01-02 at 3 33 53 PM" src="https://user-images.githubusercontent.com/58227052/210276056-9e84cf59-6f67-4eb9-959f-1c57ee03b6b2.png">
 
-The balanced accuracy score is 51% with the high risk at only 1% and the low risk at 100%. High risk and low risk sensitivities are 59% and 43% respectively.
+The balanced accuracy score is 51% with the high-risk precision at only 1% and the low-risk precision at 100%. High risk and low risk sensitivities are 59% and 43% respectively.
 
 
 ### SMOTEENN model:
@@ -47,6 +47,7 @@ The balanced accuracy score is 51% with the high risk at only 1% and the low ris
 
 <img width="667" alt="Screenshot 2023-01-02 at 3 36 21 PM" src="https://user-images.githubusercontent.com/58227052/210276225-2c6b283d-6858-4b25-a071-8e6c2b444488.png">
 
+The balanced accuracy score is 61% with the high-risk precision at 1% and the low-risk precision at 100%. High risk and low risk sensitivities are 68% and 54% respectively.
 
 
 ### BalancedRandomForestClassifier model:
@@ -57,7 +58,8 @@ The balanced accuracy score is 51% with the high risk at only 1% and the low ris
 
 <img width="668" alt="Screenshot 2023-01-02 at 3 38 33 PM" src="https://user-images.githubusercontent.com/58227052/210276385-0323fc5b-08ac-4641-a05e-da6e603d54d5.png">
 
-The balanced accuracy score is 79% with the high risk at 4% and the low risk at 100%. High risk and low risk sensitivities are 67% and 91% respectively.
+The balanced accuracy score is 79% with the high-risk precision at 4% and the low-risk precision at 100%. High risk and low risk sensitivities are 67% and 91% respectively.
+
 
 ### EasyEnsembleClassifier model:
 
@@ -67,7 +69,7 @@ The balanced accuracy score is 79% with the high risk at 4% and the low risk at 
 
 <img width="673" alt="Screenshot 2023-01-02 at 3 39 44 PM" src="https://user-images.githubusercontent.com/58227052/210276482-d5f23d05-a0b5-41a7-b652-a15940cb0cfb.png">
 
-The balanced accuracy score is 93% with the high risk at 7% and the low risk at 100%. High risk and low risk sensitivities are 91% and 94% respectively.
+The balanced accuracy score is 93% with the high-risk precision at 7% and the low-risk precision at 100%. High risk and low risk sensitivities are 91% and 94% respectively.
 
 ## Summary
 
